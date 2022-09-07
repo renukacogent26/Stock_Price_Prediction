@@ -6,7 +6,7 @@ The lowest closing price of stock is on 24 December 2018 with price 233.880005
 
 ![image](https://user-images.githubusercontent.com/110614719/188706368-b83d7d59-c503-4e03-bb6a-14ebdd5c10b0.png)
 
-The highest closing price of stock is on 24 December 2018 with price 691.690002
+The highest closing price of stock is on 17 November 2021 with price 691.690002
 
 ![image](https://user-images.githubusercontent.com/110614719/188707121-1d6742a3-afe5-48c4-80e8-c9fc5690a0e3.png)
 
